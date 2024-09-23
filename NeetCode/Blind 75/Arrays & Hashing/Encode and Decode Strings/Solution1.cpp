@@ -7,7 +7,6 @@ public:
         for(int i = 0;i < len;i++){
             combined += to_string(strs[i].length()) + "@" + strs[i];
         }
-        cout<<combined;
         return combined;
     }
 
