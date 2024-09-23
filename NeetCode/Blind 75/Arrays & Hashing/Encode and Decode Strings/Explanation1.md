@@ -2,6 +2,7 @@
 Encoding
 - Initialize an empty string to store the encoded result
 - For each string in the vector, append its length, followed by the '@' or any symbol like '#',':', followed by the string itself
+
 Decoding
 - Initialize a vector to store the decoded strings
 - Index to keep track of the current position in the string 's'
