@@ -1,2 +1,2 @@
 # DSA-Diaries
-My DSA dump.
+My DSA dump (contains solutions and explanations).
